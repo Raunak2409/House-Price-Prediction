@@ -1,6 +1,6 @@
 # House Price Prediction 🏠
 
-Predict median house values in California districts using a Random Forest Regressor and a Streamlit interactive interface.
+Predict median house values using a Random Forest Regressor and a Streamlit interactive interface.
 
 ## 🌟 Overview
 This project provides a simple yet powerful web application to explore the California Housing dataset. Users can adjust various demographic and geographical parameters to see how they impact predicted property values.
@@ -43,9 +43,6 @@ This project provides a simple yet powerful web application to explore the Calif
    ```bash
    streamlit run app.py
    ```
-
-## ⚠️ Important Note on File Size
-The trained model file `house_price_model.pkl` is approximately **144MB**, which exceeds GitHub's standard 100MB file limit. To store this in your repository, you should use **Git Large File Storage (LFS)**:
 
 ```bash
 git lfs install
