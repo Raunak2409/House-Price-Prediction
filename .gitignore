@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+build/
+dist/
+*.egg-info/
+
+# Large Model Files (Over 100MB)
+# Note: GitHub has a 100MB limit. house_price_model.pkl is ~144MB.
+# You may want to use Git LFS for this file specifically.
+# house_price_model.pkl
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
