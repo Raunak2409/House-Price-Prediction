@@ -1,4 +1,4 @@
-# California House Price Predictor 🏠
+# House Price Prediction 🏠
 
 Predict median house values in California districts using a Random Forest Regressor and a Streamlit interactive interface.
 
@@ -24,8 +24,8 @@ This project provides a simple yet powerful web application to explore the Calif
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/house-price-prediction.git
-   cd house-price-prediction
+   git clone https://github.com/Raunak2409/House-Price-Prediction.git
+   cd House-Price-Prediction
    ```
 
 2. **Install dependencies**:
